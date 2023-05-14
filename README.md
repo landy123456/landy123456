@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   
@@ -14,7 +14,8 @@
       <label for="letter">Happy Mother's Day, Jen! I hope you have a great Mother's Day. You're the best step mom ever! 🌸📷</label><br>
     </form>
 
- ![Screenshot 2023-05-14 012820](https://github.com/landy123456/HAPPYMOTHERSDAYJEN/assets/132488888/0bbdbcc4-f1c7-4403-8b0e-16191512ee88)
+![thumbnail_DEBDF2BB-CC70-44D0-9E91-4E0971A2DD27](https://github.com/landy123456/landy123456.github.io/assets/132488888/67646633-795a-4973-b0c8-1fa63c571ff4)
+
     <form>
 this is the only picture i had of us lol
       <form>
